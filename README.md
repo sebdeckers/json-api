@@ -1,6 +1,7 @@
 # Express Exercise: JSON API
 
 [![Travis CI](https://img.shields.io/travis/cbas/json-api.svg)](https://travis-ci.org/cbas/json-api)
+[![Codeship](https://img.shields.io/codeship/638b33e0-7958-0133-8d22-2292869b3ab0.svg)](https://codeship.com/projects/118699)
 
 ## Specification
 
